@@ -27,6 +27,12 @@ The analysis of the election show that:
 - The winner of the election was:
     - Diana DeGette with 272,892 votes which was 73.8% of the vote.
 
-## Election Audit Summary
-<!-- In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections. -->
-With some modification, this script can be used for other elections as well. Currently, the script is running so that a specific file with election data is pulled, but it can be adjusted to request the name of the data file from the user wishing to analyze election data.
+Below are screen shots of the Terminal results as well as what was written to the .txt file
+
+<img width="576" alt="Terminal-Snip" src="https://user-images.githubusercontent.com/111471057/190870856-c274aac1-11e2-4c6b-95a7-f767d3202d23.png">
+
+<img width="695" alt="Txt-Snip" src="https://user-images.githubusercontent.com/111471057/190870862-4aef7986-9548-44c1-8492-dd8008523e91.png">
+
+
+## Election Audit Proposal for Future Projects
+With some modification, this script can be used for other elections as well. Currently, the script is running so that it provides specific information regarding county results. The code could be expanded upon to get vote percentage by county for each candidate which can then be used to show county wins. This information would help the candidates should they chose to run again, or help a future candidate running on a similar platform. The code can also be modified to allow the user to chose the voting data to make the current code work for any vote result.
